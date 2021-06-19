@@ -1,0 +1,22 @@
+{
+  "name": "Bruce Eckel",
+  "username": "BruceEck",
+  "email": "bruce@domain.com",
+  "address": {
+    "street": "Mira street",
+    "suite": "Apt. 556",
+    "city": "Novosibirsk",
+    "zipcode": "630-110",
+    "geo": {
+      "lat": "-37.3159",
+      "lng": "81.1496"
+    }
+  },
+  "phone": "777-777-777",
+  "website": "oracle.com",
+  "company": {
+    "name": "JetBrains",
+    "catchPhrase": "Great minds think alike",
+    "bs": "harness real-time e-markets"
+  }
+}
